@@ -1,0 +1,12 @@
+# virtuelle Umgebung
+.venv/
+venv/
+# Python-Cache
+__pycache__/
+*.pyc
+# Highscore, legt das Spiel selbst an
+highscore.txt
+# Ausgabe von pygbag
+build/
+# macOS
+.DS_Store
