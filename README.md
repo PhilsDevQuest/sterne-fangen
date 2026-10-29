@@ -37,3 +37,7 @@ Danach im Browser `http://localhost:8000` öffnen und einmal ins Bild klicken.
 ## Grafiken und Töne
 
 Alle Dateien in den Ordnern `assets` stammen aus [Space Shooter Remastered von Kenney](https://kenney.nl/assets/space-shooter-remastered) und stehen unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Sie wurden für das Spiel nur umbenannt.
+
+## Lizenz
+
+Der Code steht unter der [MIT-Lizenz](LICENSE). Die Grafiken und Töne von Kenney stehen unter CC0, siehe oben.
